@@ -1,0 +1,13 @@
+--引入lua类
+require("Cocos2d")
+require("Cocos2dConstants")
+require("bitExtend")
+--引入脚本文件
+require("script/gamescript/Resource")
+require("script/gamescript/StartGame")
+require("script/gamescript/GameScene")
+require("script/gamescript/GameLayer")
+require("script/spritescript/Block")
+require("script/spritescript/Hero")
+require("script/spritescript/Control")
+require("script/spritescript/Gem")--金币
